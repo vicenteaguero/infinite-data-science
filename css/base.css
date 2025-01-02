@@ -1,0 +1,27 @@
+/* css/base.css */
+
+:root {
+    --color-black: #000000;
+    --color-white: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--color-white);
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    display: grid;
+    min-height: 100dvh;
+    grid-template-rows: auto 1fr auto;
+}
