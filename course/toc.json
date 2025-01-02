@@ -1,0 +1,14 @@
+{
+    "sklearn": {
+        "Metrics": {
+            "classification_report": "course/lessons/sklearn/Metrics/classification_report.md",
+            "accuracy_score": "course/lessons/sklearn/Metrics/accuracy_score.md"
+        }
+    },
+    "pandas": {
+        "Window": {
+            "expanding": "course/lessons/pandas/Window/expanding.md",
+            "rolling": "course/lessons/pandas/Window/rolling.md"
+        }
+    }
+}

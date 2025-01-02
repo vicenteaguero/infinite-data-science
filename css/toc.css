@@ -1,0 +1,28 @@
+/* css/toc.css */
+
+.toc {
+    background-color: var(--color-white);
+}
+
+h2.toc {
+    color: var(--color-black);
+}
+
+h3.toc {
+    color: var(--color-black);
+}
+
+ul.toc {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.toc {
+    margin: 0;
+    padding: 0;
+    color: var(--color-black);
+}
+
+a.toc {
+    color: var(--color-black);
+}
