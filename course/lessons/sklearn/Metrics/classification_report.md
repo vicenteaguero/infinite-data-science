@@ -1,0 +1,2 @@
+# Classification Report
+- The classification report visualizes the performance of a classification model. It shows the precision, recall, f1-score, and support for each class in the dataset. The classification report is useful for evaluating the performance of a classification model.
